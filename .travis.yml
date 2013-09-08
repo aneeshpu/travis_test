@@ -1,4 +1,4 @@
 language: java
 before_script:
- cd ..;ls -l
+ cd ..;ls -l;cd ..;ls -l
 
